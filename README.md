@@ -15,7 +15,7 @@
 
 ## Как запустить
 ```bash
-git clone <ссылка на репозиторий>
+git clone (https://github.com/ArinaSmlr/fintech)
 cd fintech_theme3
 pip install -r requirements.txt
 python -m src.train
